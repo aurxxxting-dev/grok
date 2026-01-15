@@ -1,0 +1,5 @@
+{
+  "name": "Grok-3 AI Chat",
+  "description": "A high-performance AI chat interface powered by Grok-3, featuring text chat and image generation capabilities.",
+  "requestFramePermissions": []
+}
